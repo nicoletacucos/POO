@@ -1,0 +1,87 @@
+21.03.2023 19:05:06	This log contains information about the import schema operation into project 'Database1' on computer '2648-ATM-5600N' by user 'nicoleta.cucos'.
+21.03.2023 19:05:07	Import of database schema has started.
+21.03.2023 19:05:21	Gathering database credentials
+21.03.2023 19:05:21	Gathering database options
+21.03.2023 19:05:21	Gathering generic database scoped configuration option
+21.03.2023 19:05:21	Gathering users
+21.03.2023 19:05:21	Gathering roles
+21.03.2023 19:05:21	Gathering application roles
+21.03.2023 19:05:21	Gathering role memberships
+21.03.2023 19:05:21	Gathering filegroups
+21.03.2023 19:05:21	Gathering full-text catalogs
+21.03.2023 19:05:21	Gathering assemblies
+21.03.2023 19:05:21	Gathering certificates
+21.03.2023 19:05:21	Gathering asymmetric keys
+21.03.2023 19:05:21	Gathering symmetric keys
+21.03.2023 19:05:21	Gathering encrypted symmetric keys
+21.03.2023 19:05:21	Gathering schemas
+21.03.2023 19:05:21	Gathering XML schema collections
+21.03.2023 19:05:21	Gathering user-defined data types
+21.03.2023 19:05:21	Gathering user-defined types
+21.03.2023 19:05:21	Gathering table types
+21.03.2023 19:05:21	Gathering unique keys for table types
+21.03.2023 19:05:21	Gathering primary keys for table types
+21.03.2023 19:05:22	Gathering indexes for table types
+21.03.2023 19:05:22	Gathering check constraints for table types
+21.03.2023 19:05:22	Gathering default constraints for table types
+21.03.2023 19:05:22	Gathering partition functions
+21.03.2023 19:05:22	Gathering partition schemes
+21.03.2023 19:05:22	Gathering functions
+21.03.2023 19:05:22	Gathering encrypted functions
+21.03.2023 19:05:22	Gathering aggregates
+21.03.2023 19:05:22	Gathering procedures
+21.03.2023 19:05:22	Gathering encrypted procedures
+21.03.2023 19:05:22	Gathering tables
+21.03.2023 19:05:22	Gathering primary keys
+21.03.2023 19:05:22	Gathering unique constraints
+21.03.2023 19:05:22	Gathering foreign keys
+21.03.2023 19:05:22	Gathering default constraints
+21.03.2023 19:05:22	Gathering check constraints
+21.03.2023 19:05:22	Gathering views
+21.03.2023 19:05:22	Gathering encrypted views
+21.03.2023 19:05:22	Gathering indexes
+21.03.2023 19:05:22	Gathering statistics
+21.03.2023 19:05:22	Gathering full-text index stoplists
+21.03.2023 19:05:22	Gathering search property lists
+21.03.2023 19:05:22	Gathering search properties
+21.03.2023 19:05:22	Gathering full-text indexes
+21.03.2023 19:05:22	Gathering column store indexes
+21.03.2023 19:05:22	Gathering spatial indexes
+21.03.2023 19:05:22	Gathering XML indexes
+21.03.2023 19:05:22	Gathering Selective XML indexes
+21.03.2023 19:05:22	Gathering encrypted triggers
+21.03.2023 19:05:22	Gathering triggers
+21.03.2023 19:05:22	Gathering encrypted and clr ddl triggers
+21.03.2023 19:05:22	Gathering ddl triggers
+21.03.2023 19:05:22	Creating edge constraints
+21.03.2023 19:05:22	Gathering synonyms
+21.03.2023 19:05:22	Gathering defaults
+21.03.2023 19:05:22	Gathering data constraint uddt bindings
+21.03.2023 19:05:22	Gathering rules
+21.03.2023 19:05:22	Gathering data constraint uddt bindings
+21.03.2023 19:05:22	Gathering message types
+21.03.2023 19:05:22	Gathering queues
+21.03.2023 19:05:22	Gathering contracts
+21.03.2023 19:05:22	Gathering services
+21.03.2023 19:05:22	Gathering event notifications
+21.03.2023 19:05:22	Gathering remote service bindings
+21.03.2023 19:05:22	Gathering broker priorities
+21.03.2023 19:05:22	Gathering signatures
+21.03.2023 19:05:23	Gathering data compression options
+21.03.2023 19:05:23	Gathering sequence types
+21.03.2023 19:05:23	Gathering security policies
+21.03.2023 19:05:23	Gather column encryption keys
+21.03.2023 19:05:23	Gathering column master keys
+21.03.2023 19:05:23	Gathering external data sources
+21.03.2023 19:05:23	Gathering external file formats
+21.03.2023 19:05:23	Gathering external tables
+21.03.2023 19:05:23	Gathering extended properties
+21.03.2023 19:05:23	Gathering assemblies
+21.03.2023 19:05:23	Gathering credentials
+21.03.2023 19:05:23	Gathering logins
+21.03.2023 19:05:23	Gathering server audits
+21.03.2023 19:05:23	Scanning project for duplicate elements
+21.03.2023 19:05:24	Finished duplicate element processing
+21.03.2023 19:05:24	Finished importing database.
+21.03.2023 19:05:24	A summary of the import was saved to the following location: D:\POO_P\mysqlproject\Solution1\Database1\Import Schema Logs\Database1_20230321050506.log
+21.03.2023 19:05:24	Click Finish to continue...
